@@ -81,8 +81,8 @@ $$dX_t = \\mu_{\\theta}(X_t, t)dt + \\sigma_{\\theta}(X_t, t)dW_t$$
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/neural-finance-ml.git
-cd neural-finance-ml
+git clone https://github.com/RabehOmrani/ai-finance
+cd ai-finance
 
 # Install dependencies
 pip install tensorflow numpy pandas matplotlib seaborn scipy scikit-learn yfinance plotly
